@@ -30,7 +30,7 @@ Yueqi Sheng, Qiang Wu (Submitted to JMP)
 [Robust reconstruction of single-cell RNA-seq data with iterative gene weight updates](https://pubmed.ncbi.nlm.nih.gov/37387155/)\
 Yueqi Sheng, Boaz Barak, Mor Nitzan (ISMB/EECB 2023)
 
-[(Nearly) Efficient Algorithms for the Graph Matching Problem on Correlated Random Graphs](https://pubmed.ncbi.nlm.nih.gov/37387155/)\
+[(Nearly) Efficient Algorithms for the Graph Matching Problem on Correlated Random Graphs](https://arxiv.org/abs/1805.02349)\
 Boaz Barak, Chi-Ning Chou, Zhixian Lei, Tselil Schramm, Yueqi Sheng (NeurIPS 2019)	
 
 ## Teaching:
