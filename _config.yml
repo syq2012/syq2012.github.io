@@ -26,7 +26,7 @@ github_username: syq2012
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
