@@ -34,7 +34,7 @@ Yueqi Sheng, Boaz Barak, Mor Nitzan (ISMB/EECB 2023)
 Boaz Barak, Chi-Ning Chou, Zhixian Lei, Tselil Schramm, Yueqi Sheng (NeurIPS 2019)	
 
 ## Teaching:
-Fall 2023: (COMPSCI 121) Introduction to Computer Science \
+Fall 2023: (COMPSCI 121) Introduction to Computer Science\
 Teaching Fellow 
 
 Spring 2018: (COMPSCI 127) Cryptography \
