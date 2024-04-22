@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title:
-repository: syq2012/ysheng.github.io
-email: ysheng@g.harvard.edu
+repository: syq2012/syq2012.github.io
+email: syq2012@g.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:" 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: http://syq2012.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: syq2012
 
