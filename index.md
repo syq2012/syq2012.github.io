@@ -25,7 +25,7 @@ Hi, I'm a ph.D. student in the theory of computation group at Harvard University
 
 ## Papers:
 [Central Limit Theorem of Overlap for the Mean Field Ghatak-Sherrington model](https://arxiv.org/abs/2312.15774)\
-Yueqi Sheng, Qiang Wu (Submitted to JMP)
+Yueqi Sheng, Qiang Wu (JMP 2024)
 
 [Robust reconstruction of single-cell RNA-seq data with iterative gene weight updates](https://pubmed.ncbi.nlm.nih.gov/37387155/)\
 Yueqi Sheng, Boaz Barak, Mor Nitzan (ISMB/EECB 2023)
